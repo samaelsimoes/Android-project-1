@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Goku</string>
+    <string name="voltar">Voltar</string>
+    <string name="avancar">Avancar</string>
+    <string name="novoBotao">@string/app_name</string>
+
+</resources>
